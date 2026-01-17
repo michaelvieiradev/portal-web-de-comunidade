@@ -1,0 +1,16 @@
+{
+  "name": "portal-web-de-comunidade",
+  "version": "1.0.0",
+  "description": "Projeto para treinar programação web. Frontend, backend, banco de dados, deploy (com Vercel), versionamento (Git) e testes.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
